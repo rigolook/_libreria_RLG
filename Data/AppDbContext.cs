@@ -1,10 +1,14 @@
-﻿namespace _libreria_RLG.Data
+﻿using _libreria_RLG.Data.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace _libreria_RLG.Data
 {
-    public class AppDbContext
+    public class AppDbContext : DbContext
     {
-        public AppDbContext()
+        public AppDbContext(DbContextOptions<AppDbContext> options): base(options) 
         {
 
         }
+        public DbSet<Book> Books { get; set; }
     }
 }
