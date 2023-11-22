@@ -37,6 +37,8 @@ namespace _libreria_RLG
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
             //Configurar el servicio para ser usado
             services.AddTransient<BooksService>();
+            services.AddTransient<AuthorsService>();
+            services.AddTransient<PublishersService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "_libreria_RLG", Version = "v1" });
@@ -63,7 +65,7 @@ namespace _libreria_RLG
             {
                 endpoints.MapControllers();
             });
-            AppDbinitializer.Speed(app);
+            //AppDbinitializer.Speed(app);
         }
     }
 }

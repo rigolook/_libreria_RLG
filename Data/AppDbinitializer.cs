@@ -25,7 +25,6 @@ namespace _libreria_RLG.Data
                         DateRead = DateTime.Now.AddDays(-10),
                         Rate = 4,
                         Genero = "Biography",
-                        Autor = "1st Author",
                         CoverUrl = "https...",
                         DateAdded = DateTime.Now,
                     },
@@ -37,7 +36,6 @@ namespace _libreria_RLG.Data
                         DateRead = DateTime.Now.AddDays(-10),
                         Rate = 4,
                         Genero = "Biography",
-                        Autor = "1nd Author",
                         CoverUrl = "https...",
                         DateAdded = DateTime.Now,
                     });

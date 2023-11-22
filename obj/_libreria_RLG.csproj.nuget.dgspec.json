@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cd14\\Desktop\\_libreria_RLG\\_libreria_RLG.csproj": {}
+    "C:\\Users\\cd14\\3D Objects\\_libreria_RLG\\_libreria_RLG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cd14\\Desktop\\_libreria_RLG\\_libreria_RLG.csproj": {
+    "C:\\Users\\cd14\\3D Objects\\_libreria_RLG\\_libreria_RLG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cd14\\Desktop\\_libreria_RLG\\_libreria_RLG.csproj",
+        "projectUniqueName": "C:\\Users\\cd14\\3D Objects\\_libreria_RLG\\_libreria_RLG.csproj",
         "projectName": "_libreria_RLG",
-        "projectPath": "C:\\Users\\cd14\\Desktop\\_libreria_RLG\\_libreria_RLG.csproj",
+        "projectPath": "C:\\Users\\cd14\\3D Objects\\_libreria_RLG\\_libreria_RLG.csproj",
         "packagesPath": "C:\\Users\\cd14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cd14\\Desktop\\_libreria_RLG\\obj\\",
+        "outputPath": "C:\\Users\\cd14\\3D Objects\\_libreria_RLG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

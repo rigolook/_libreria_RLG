@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jHe5wA5xCHqzxfYB2F7IGi9m99GWWa2wUSOjjF6gPrFajO1F7jJ058FSGrPJy9YYnIyq/MfSCEIV0d36CbcJ1w==",
+  "dgSpecHash": "SjfZ+iGopIhILgDCsIRMjKIRqd4DfkvMUvS1FcxiM/sgR0YhrxNUzcJ/X3V92ajhaeH470ABVp2X41LaEpK2AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cd14\\Desktop\\_libreria_RLG\\_libreria_RLG.csproj",
+  "projectFilePath": "C:\\Users\\cd14\\3D Objects\\_libreria_RLG\\_libreria_RLG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cd14\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cd14\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
